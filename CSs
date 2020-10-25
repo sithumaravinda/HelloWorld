@@ -31,6 +31,14 @@
 </head>
 <body>
 
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
 <h1>The background-size Property</h1>
 
 <h2>background-size: contain:</h2>
